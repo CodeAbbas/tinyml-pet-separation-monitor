@@ -1,0 +1,21 @@
+{
+  "mu": {
+    "transition_rate": 0.0,
+    "dwell_entropy": 0.0,
+    "position_var": 34.489652710620106,
+    "activity": 1.2235169644467105
+  },
+  "sigma": {
+    "transition_rate": 0.5,
+    "dwell_entropy": 0.1,
+    "position_var": 35.440930522634105,
+    "activity": 1.1934072377826457
+  },
+  "raw_sigma": {
+    "transition_rate": 0.0,
+    "dwell_entropy": 0.0,
+    "position_var": 35.440930522634105,
+    "activity": 1.1934072377826457
+  },
+  "n_windows": 8
+}

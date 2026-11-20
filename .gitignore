@@ -1,0 +1,32 @@
+# --- Secrets / local config ---
+.env
+.env.*
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Gateway runtime state (sample data lives in data/) ---
+gateway/episodes_pending.jsonl
+gateway/episodes_sent.jsonl
+gateway/episodes_bad.jsonl
+gateway/ablation_results.csv
+
+# --- Laravel (backend/.gitignore covers the rest) ---
+backend/vendor/
+backend/node_modules/
+backend/database/*.sqlite*
+backend/bootstrap/cache/*.php
+backend/storage/framework/views/*.php
+backend/storage/logs/*.log
+
+# --- Arduino / editors / OS ---
+build/
+*.zip
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

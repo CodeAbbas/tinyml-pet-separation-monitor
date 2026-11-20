@@ -1,0 +1,8 @@
+Third-party components
+======================
+
+edge-impulse-lib/ and firmware/nano_ble33_sense_camera/nano_ble33_sense_camera.ino
+contain or are derived from the Edge Impulse SDK and its bundled dependencies
+(TensorFlow Lite Micro, CMSIS, etc.). They remain under their original licences
+(primarily Apache License 2.0) as stated in the headers and LICENSE files within
+those directories. backend/ is built on the Laravel skeleton (MIT).

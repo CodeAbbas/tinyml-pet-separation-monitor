@@ -105,4 +105,4 @@ Each line in `data/sessions/*.csv` is `D,cx,cy,conf,millis` for a detection, or 
 
 ## License
 
-The original code is under the [MIT License](LICENSE). `edge-impulse-lib/` and the firmware sketch are derived from Edge Impulse SDK material and keep their original licences, mainly Apache-2.0; see the headers in those files.
+The original code is under the [MIT License](LICENSE). `edge-impulse-lib/` and the firmware sketch are derived from Edge Impulse SDK material and keep their original licences, mainly Apache-2.0; see [NOTICE](NOTICE) and the headers in those files.
